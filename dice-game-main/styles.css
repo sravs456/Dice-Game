@@ -1,0 +1,50 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 50px;
+  font-family:  'Akaya Kanadaka', cursive;;
+  text-shadow: 5px 0 #303741;
+  font-size: 5rem;
+  color: #4ECCA3;
+  
+}
+button{
+  margin: 50px;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  background-color: #09caf1;
+
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+
+}
